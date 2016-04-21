@@ -2,7 +2,7 @@
 
 $ ->
 
-  isOpen = location.hash is '#open'
+  isOpen = false #location.hash is '#open'
 
   _animate = ->
     setTimeout(->
