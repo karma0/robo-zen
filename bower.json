@@ -24,7 +24,6 @@
   "dependencies": {
     "fastclick": "*",
     "fitvids": "*",
-    "ghostHunter": "git://github.com/i11ume/ghostHunter.git",
     "pace": "*",
     "reading-time": "*"
   },
